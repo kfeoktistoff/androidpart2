@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Assignment1/AsyncTaskLab/Lab5-AsyncTaskLabTest/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Assignment1/AsyncTaskLab/Lab5-AsyncTaskLabTest/libs/robotium-solo-5.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Lab6_NotificationsLabTest/bin/dexedLibs/robotium-solo-5.2.1-a36280d82c9333a3dcce47cd6e2ad360.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Lab6_NotificationsLabTest/bin/dexedLibs/robotium-solo-5.2.1-336b8fa89e5f66cdc2f8928dde249382.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Lab6_NotificationsLabTest/bin/dexedLibs/android-support-v4-532f708ebc4b998093c651e45bfb332b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Lab6_NotificationsLabTest/bin/dexedLibs/android-support-v4-859039c4e6b900edfd8c248fe0c0a61b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

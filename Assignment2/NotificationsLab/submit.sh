@@ -1,0 +1,7 @@
+rm -rf NotificationsLabSubmit
+mkdir NotificationsLabSubmit
+mkdir NotificationsLabSubmit/NotificationsLab
+cp Lab6_NotificationsLab/src/course/labs/notificationslab/DownloaderTaskFragment.java ./NotificationsLabSubmit/NotificationsLab
+cp Lab6_NotificationsLab/src/course/labs/notificationslab/MainActivity.java ./NotificationsLabSubmit/NotificationsLab
+zip -r0 NotificationsLabSubmit.zip NotificationsLabSubmit/*
+rm -rf NotificationsLabSubmit
